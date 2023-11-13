@@ -1,0 +1,3 @@
+[submodule "empty-repo"]
+	path = empty-repo
+	url = https://github.com/wrvsrx/empty-repo.git
